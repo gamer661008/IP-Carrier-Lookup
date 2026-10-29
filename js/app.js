@@ -1243,4 +1243,5 @@ function loadAdScripts() {
     // script.src = 'https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-XXXXXXXXXXXXXXXX';
     // script.crossOrigin = 'anonymous';
     // document.head.appendChild(script);
+    https://araplhn.org/4/71ac2cfb6393a198691c9b7ac60f81f2
 }
